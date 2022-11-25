@@ -20,24 +20,12 @@ collections:
   api:
     title: api
     position_number: 2
-  websocket_public:
-    title: WEBSOCKET(public)
-    position_number: 3
-  websocket_private:
-    title: WEBSOCKET(private)
-    position_number: 4
   documentation_cn:
     title: 接入说明
-    position_number: 5
+    position_number: 3
   api_cn:
     title: api
-    position_number: 6
-  websocket_public_cn:
-    title: WEBSOCKET(public)
-    position_number: 7
-  websocket_private_cn:
-    title: WEBSOCKET(private)
-    position_number: 8
+    position_number: 4
 plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
@@ -66,31 +54,12 @@ defaults:
       type: "api"
     values:
       _hide_content: true
-  -
-    scope:
-      type: "websocket_public"
-    values:
-      _hide_content: true
-  - scope:
-      type: "websocket_private"
-    values:
-      _hide_content: true
   - scope:
       type: "documentation_cn"
     values:
       _hide_content: true
-  -
-    scope:
-      type: "api_cn"
-    values:
-      _hide_content: true
-  -
-    scope:
-      type: "websocket_public_cn"
-    values:
-      _hide_content: true
   - scope:
-      type: "websocket_private_cn"
+      type: "api_cn"
     values:
       _hide_content: true
 # -----------
