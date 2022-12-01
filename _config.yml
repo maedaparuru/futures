@@ -17,7 +17,7 @@ collections:
   documentation_cn:
     title: 接入说明
     position_number: 1
-  api:
+  api_cn:
     title: api
     position_number: 2
 plugins:
