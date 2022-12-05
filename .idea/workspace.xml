@@ -2,14 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7474ee26-ed20-4404-b5e0-4c028a760ca0" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/_api_cn/chicangxiangguan/一键平仓1.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_api_cn/chicangxiangguan/一键平仓.md" beforeDir="false" afterPath="$PROJECT_DIR$/_api_cn/chicangxiangguan/一键平仓.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_api_cn/chicangxiangguan/修改保证金.md" beforeDir="false" afterPath="$PROJECT_DIR$/_api_cn/chicangxiangguan/修改保证金.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_api_cn/chicangxiangguan/修改持仓模式.md" beforeDir="false" afterPath="$PROJECT_DIR$/_api_cn/chicangxiangguan/修改持仓模式.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_api_cn/chicangxiangguan/修改自动增加保证金.md" beforeDir="false" afterPath="$PROJECT_DIR$/_api_cn/chicangxiangguan/修改自动增加保证金.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_api_cn/chicangxiangguan/合并仓位.md" beforeDir="false" afterPath="$PROJECT_DIR$/_api_cn/chicangxiangguan/合并仓位.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_api_cn/chicangxiangguan/获取持仓信息.md" beforeDir="false" afterPath="$PROJECT_DIR$/_api_cn/chicangxiangguan/获取持仓信息.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_api_cn/chicangxiangguan/调整杠杆倍数.md" beforeDir="false" afterPath="$PROJECT_DIR$/_api_cn/chicangxiangguan/调整杠杆倍数.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -30,12 +25,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="一键平仓.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_api_cn/chicangxiangguan/一键平仓.md">
+      <file leaf-file-name="一键平仓1.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_api_cn/chicangxiangguan/一键平仓1.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="19">
-                <caret line="1" column="10" selection-start-line="1" selection-start-column="10" selection-end-line="1" selection-end-column="10" />
+                <caret line="1" column="11" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="11" />
               </first_editor>
               <second_editor />
             </state>
@@ -48,6 +43,18 @@
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="19">
                 <caret line="1" column="13" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="一键平仓.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_api_cn/chicangxiangguan/一键平仓.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="38">
+                <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
               </first_editor>
               <second_editor />
             </state>
@@ -284,12 +291,12 @@
       <option name="presentableId" value="Default" />
       <updated>1669886650684</updated>
       <workItem from="1669886652145" duration="3419000" />
-      <workItem from="1670205541443" duration="1071000" />
+      <workItem from="1670205541443" duration="2950000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4490000" />
+    <option name="totallyTimeSpent" value="6369000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="848" extended-state="6" />
@@ -431,6 +438,16 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_api_cn/fuwuqishijian/修改自动追加保证金.md" />
+    <entry file="file://$PROJECT_DIR$/_api_cn/chicangxiangguan/一键平仓1.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="19">
+            <caret line="1" column="11" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="11" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/_api_cn/chicangxiangguan/调整杠杆倍数.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -494,8 +511,8 @@
     <entry file="file://$PROJECT_DIR$/_api_cn/chicangxiangguan/一键平仓.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="19">
-            <caret line="1" column="10" selection-start-line="1" selection-start-column="10" selection-end-line="1" selection-end-column="10" />
+          <first_editor relative-caret-position="38">
+            <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
           </first_editor>
           <second_editor />
         </state>
