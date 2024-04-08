@@ -6,7 +6,7 @@ parameters:
         name:
         content:
 content_markdown: |-
-    **production environment: https://openapi.soeasyex.com**
+    **production environment: https://openapi.hashex.vip**
     {: .info}
 
     Sdks for each language:
